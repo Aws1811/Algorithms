@@ -83,6 +83,8 @@ function longestWordInString(str) {
   }
   return longest;
 }console.log(longestWordInString("I love programming"));
+
+
 // 1. Convert a Letter Grade to Feedback[Text Wrapping Break]Question: Write a function that takes a single-letter string grade and returns a matching feedback message. 
 // Example input: "B" 
 // Example output: "Good job" 
@@ -168,3 +170,18 @@ function countCharacters(str) {
   return output;
 }
 console.log(countCharacters("Hello 123"));
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
